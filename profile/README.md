@@ -18,7 +18,7 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://paseo.cafe/submit"><strong>Submit a plugin</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/tommerty/paseo-cafe"><strong>Directory source</strong></a>
+  <a href="https://github.com/paseo-cafe/paseo-cafe"><strong>Directory source</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://paseo.sh"><strong>About Paseo</strong></a>
 </p>
@@ -59,6 +59,10 @@
 ## Add your plugin
 
 Already building for Paseo? [Submit your plugin](https://paseo.cafe/submit) by pointing the directory at its public GitHub repository. No duplicate listing form and no hand-maintained metadata.
+
+## Built in public
+
+The website, plugin registry, enrichment pipeline, and deployment configuration live in [`paseo-cafe/paseo-cafe`](https://github.com/paseo-cafe/paseo-cafe). Plugin submissions arrive there as pull requests.
 
 ## Independent and transparent
 
