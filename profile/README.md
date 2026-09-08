@@ -1,32 +1,34 @@
 <p align="center">
-  <a href="https://www.paseo.cafe">
-    <img src="./assets/paseo-mark.svg" width="96" height="96" alt="Paseo">
+  <a href="https://paseo.cafe">
+    <img src="./assets/paseo-mark.svg" width="96" height="96" alt="paseo.cafe">
   </a>
 </p>
 
-<h1 align="center">Paseo</h1>
+<h1 align="center">paseo.cafe</h1>
 
-<p align="center"><strong>Your coding agents, one workspace.</strong></p>
+<p align="center"><strong>The community-run directory of Paseo plugins.</strong></p>
 
 <p align="center">
-  Run Claude Code, Codex, Copilot, OpenCode, Pi, and dozens more<br>
-  from desktop, mobile, web, or the command line.
+  Discover useful extensions, see what they do, and trace every listing<br>
+  straight back to the code that powers it.
 </p>
 
 <p align="center">
-  <a href="https://www.paseo.cafe"><strong>Website</strong></a>
+  <a href="https://paseo.cafe"><strong>Browse plugins</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.paseo.cafe/docs"><strong>Docs</strong></a>
+  <a href="https://paseo.cafe/submit"><strong>Submit a plugin</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.paseo.cafe/download"><strong>Download</strong></a>
+  <a href="https://github.com/tommerty/paseo-cafe"><strong>Directory source</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://discord.gg/jz8T2uahpH"><strong>Community</strong></a>
+  <a href="https://paseo.sh"><strong>About Paseo</strong></a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://paseo.sh/hero-mockup.png" width="100%" alt="Paseo running coding agents in parallel">
+  <a href="https://paseo.cafe">
+    <img src="https://paseo.cafe/og/default.png" width="100%" alt="paseo.cafe — an independent, community-run directory of Paseo plugins">
+  </a>
 </p>
 
 <br>
@@ -34,35 +36,30 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Native agents</strong><br>
-      Run the first-party agent CLIs you already trust. Your models, skills, configuration, and MCP servers keep working.
+      <strong>Find the right plugin</strong><br>
+      Browse community-built extensions by category, platform, author, and capability.
     </td>
     <td width="50%" valign="top">
-      <strong>Parallel by design</strong><br>
-      Give each task its own agent and isolated worktree, then monitor every run from one place.
+      <strong>Published from source</strong><br>
+      Listings are generated from each plugin's public repository, including its manifest, README, license, and release metadata.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Every screen</strong><br>
-      Start at your desk, review from your phone, or automate from the CLI. The same workspace follows you.
+      <strong>Simple submissions</strong><br>
+      Add one small registry entry pointing to your repository. Automation validates and publishes the rest.
     </td>
     <td width="50%" valign="top">
-      <strong>Local first</strong><br>
-      Agents run on your machine with your development environment. Your source code and credentials stay under your control.
+      <strong>Community maintained</strong><br>
+      The directory itself is open source. Improvements, fixes, and new plugin submissions happen in public.
     </td>
   </tr>
 </table>
 
-## Start anywhere
+## Add your plugin
 
-```bash
-npm install -g @getpaseo/cli
-paseo
-```
+Already building for Paseo? [Submit your plugin](https://paseo.cafe/submit) by pointing the directory at its public GitHub repository. No duplicate listing form and no hand-maintained metadata.
 
-Or [download the desktop app](https://www.paseo.cafe/download) and pair another device in a few clicks.
+## Independent and transparent
 
-## Built in the open
-
-Paseo is open source under the Apache 2.0 license. Explore the [source](https://github.com/getpaseo/paseo), read the [documentation](https://www.paseo.cafe/docs), or join the [community](https://discord.gg/jz8T2uahpH).
+paseo.cafe is an independent, community-run directory. It is not affiliated with, endorsed by, or maintained by [Paseo](https://paseo.sh). Listings are generated automatically and are not reviewed or audited by the directory. Read a plugin's source before installing it.
