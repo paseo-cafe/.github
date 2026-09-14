@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://paseo.cafe">
-    <img src="./assets/cafe-icon.png" width="96" height="96" alt="paseo.cafe">
+    <img src="./assets/github-avatar.png" width="96" height="96" alt="paseo.cafe snail mark">
   </a>
 </p>
 
